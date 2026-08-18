@@ -582,3 +582,4 @@ git restore <archivo>             # descartar cambios locales
 git reset --hard <hash>           # volver a un commit (borra cambios)
 git revert <hash>                 # deshacer un commit con uno nuevo
 ```
+Versión desde MAIN
