@@ -583,3 +583,4 @@ git reset --hard <hash>           # volver a un commit (borra cambios)
 git revert <hash>                 # deshacer un commit con uno nuevo
 ```
 Versión desde MAIN
+version desde feature/conflicto 
