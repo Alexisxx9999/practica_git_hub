@@ -4,3 +4,10 @@ const est = [{ nombre: 1 }, { nombre: 2 }]
 const map = est.map(({ nombre, id }) => ({ id, nombre }))
 console.log(map);
 
+const obj = {
+  nombre: "alexis",
+  curso: "2do c ",
+  edad: 20
+
+
+}
